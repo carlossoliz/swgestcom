@@ -1,0 +1,19 @@
+{
+  "name": "swgestcom",
+  "version": "0.1.0",
+  "description": "componente",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlossoliz/swgestcom.git"
+  },
+  "author": "carlossoliz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlossoliz/swgestcom/issues"
+  },
+  "homepage": "https://github.com/carlossoliz/swgestcom#readme"
+}
