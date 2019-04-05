@@ -1,7 +1,10 @@
-function sumar(a ,b ) {
-    return a + b ;
+class operacion {
+
+    constructor() {}
+  
+    sumar(a , b){
+        return a + b;
+    }
 }
 
-module.exports = {
-    sumar
-};
+module.exports = operacion ;

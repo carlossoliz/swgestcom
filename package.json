@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/carlossoliz/swgestcom/issues"
   },
-  "homepage": "https://github.com/carlossoliz/swgestcom#readme"
+  "homepage": "https://github.com/carlossoliz/swgestcom#readme",
+  "dependencies": {
+    "dblite": "^1.0.1"
+  }
 }
