@@ -4,3 +4,7 @@ var dbs = new db();
 function init() {
     dbs.db_crearTablas();
 }
+
+module.exports = {
+    init
+}
