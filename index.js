@@ -1,10 +1,6 @@
-class operacion {
+var db = require('./modulos/dbs/database');
+var dbs = new db();
 
-    constructor() {}
-  
-    sumar(a , b){
-        return a + b;
-    }
+function init() {
+    dbs.db_crearTablas();
 }
-
-module.exports = operacion ;
